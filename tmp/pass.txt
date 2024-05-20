@@ -1,0 +1,35 @@
+ADMIN  /  Ciar@22$
+
+
+
+User : ADMIN_SIEGE
+Password par defaut : Ciar@23$   (pour la 1ere connexion)
+
+User : ADMIN_ALGER
+Password par defaut : Ciar@24$   (pour la 1ere connexion)
+
+User : ADMIN_ANNABA
+Password par defaut : Ciar@25$   (pour la 1ere connexion)
+
+User : ADMIN_ORAN
+Password par defaut : Ciar@26$  (pour la 1ere connexion)
+
+User : ADMIN_GHARDAIA
+Password par defaut : Ciar@27$  (pour la 1ere connexion)
+
+User : ADMIN_SETIF
+Password par defaut : Ciar@28$   (pour la 1ere connexion)
+
+User : ADMIN_BLIDA
+Password par defaut : Ciar@29$   (pour la 1ere connexion)
+
+User : ADMIN_DELIBRAHIM
+Password par defaut : Ciar@30$   (pour la 1ere connexion)
+
+
+•	Reed only (Effectif):
+•	Nom d'utilisateur : refciar
+•	Mot de passe : C%Reed24$
+
+
+

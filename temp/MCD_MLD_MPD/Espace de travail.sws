@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{D581DC58-49F3-4132-BEC8-E16E324E996D}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleConceptuelDonnees.mpd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{19F873C8-042E-45F8-B2BF-864D6EF2E1AC}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="ModeleConceptuelDonnees.mld"/>
+		<Model Expanded="Yes" ID="{D581DC58-49F3-4132-BEC8-E16E324E996D}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleConceptuelDonnees.mpd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Loaded="No" Name="ModeleConceptuelDonnees" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+		<Model Expanded="Yes" ID="{8F469BDD-C202-430F-B64A-4C65FB5CD240}" Name="ModeleConceptuelDonnees" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>

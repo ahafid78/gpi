@@ -1,0 +1,6 @@
+diag class mcd (merise/ model conceptuel de donnee)
+générer un mld (model logique de donnee)
+générer un mpd (model physique de donnee)
+
+apex_admin (admin/ Nopx%24k1@r)
+

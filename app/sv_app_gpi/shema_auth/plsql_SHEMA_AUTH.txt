@@ -1,0 +1,35 @@
+
+PL/SQL Function Returning Boolean
+
+
+users_auth      (les admin_DR)
+
+IF :app_user = 'ADMIN' or :app_user = 'A.BEDRI' or :app_user = 'ADMIN_SIEGE' or :app_user = 'ADMIN_ALGER' or :app_user = 'ADMIN_ANNABA' 
+or :app_user = 'ADMIN_ORAN' or :app_user = 'ADMIN_GHARDAIA' or :app_user = 'ADMIN_SETIF' or :app_user = 'ADMIN_BLIDA' or :app_user = 'ADMIN_DELIBRAHIM'
+or :app_user = 'TEST10' or :app_user = 'TEST20' or :app_user = 'TEST30' or :app_user = 'TEST40' or :app_user = 'TEST50' or :app_user = 'TEST60' or :app_user = 'TEST80'
+THEN
+return true;
+else
+return false;
+end if;
+
+users_auth_p    (les admin_SIEGE)
+
+IF :app_user = 'ADMIN' OR :app_user = 'A.BEDRI' or :app_user = 'ADMIN_SIEGE' THEN
+return true;
+else
+return false;
+end if;
+
+
+super_user      (Super admin)
+
+if :app_user='SUPER_ADMIN' then
+return true;
+else
+return false;
+end if;
+
+
+
+Pages not allow for you
